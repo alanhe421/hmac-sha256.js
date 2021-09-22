@@ -1,0 +1,21 @@
+{
+  "name": "@stacker/hmac-sha256.js",
+  "version": "3.1.2",
+  "description": "JavaScript implementations of standard and secure cryptographic algorithms",
+  "homepage": "https://code.google.com/archive/p/crypto-js",
+  "bugs": {
+    "url": "https://code.google.com/archive/p/crypto-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanhg/hmac-sha256.js.git"
+  },
+  "sideEffects": false,
+  "main": "hmac-sha256.js",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
